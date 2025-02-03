@@ -1,6 +1,7 @@
 ### hellooo universe 
 my name is ``` Sofia ``` I'm a *_multidisciplinary_* **graphic designer**! Getting ready to code youu awayyy! <br>
 
+🏠 based in Berlin <br>
 💞 analog photography <br>
 💃 dancing 
 
