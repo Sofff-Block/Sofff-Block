@@ -4,8 +4,8 @@ my name is ``` Sofia ``` I'm a *_multidisciplinary_* Graphic Designer! Getting r
 💞 analog photography <br>
 💃 dancing 
 
-[x]  <br>
 [x] found my own crib! ^.^ <br>
+[x] worked in a design agency <br>
 [ ] worked in tech <br>
 
 
