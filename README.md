@@ -1,4 +1,4 @@
-### hello universe 
+### hellooo universe 
 my name is ``` Sofia ``` I'm a *_multidisciplinary_* Graphic Designer! Getting ready to code youu awayyy! <br>
 
 💞 analog photography <br>
