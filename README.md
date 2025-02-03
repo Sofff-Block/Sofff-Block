@@ -1,10 +1,16 @@
-# Hello World
-my name is Sofia and I love **photography** and _dancing_! :)
+### hello universe 
+my name is ``` Sofia ``` I'm a *_multidisciplinary_* Graphic Designer! Getting ready to code youu awayyy! <br>
 
-What I worked on my last Job:
-- Creating visual identities
-- graphic design
-- animation
+💞 analog photography <br>
+💃 dancing 
+
+[x]  <br>
+[x] found my own crib! ^.^ <br>
+[ ] worked in tech <br>
+
+
+<http://www.sofiablock.com> <br>
+
 
 ![foto](https://images.pexels.com/photos/2983214/pexels-photo-2983214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
