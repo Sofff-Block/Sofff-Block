@@ -1,10 +1,11 @@
 <p align="left"><img width=10%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-my name is ``` Sofia Florencia Block``` I'm a *_multidisciplinary_* **graphic designer**! Getting ready to code youu awayyy! <br>
+<h3> Comitted to code </h3>
+my name is ``` Sofia Florencia Block```. I'm a *_multidisciplinary_* **graphic designer**!  <br>
 
 🏠 based in Berlin <br>
 💞 analog photography <br>
-💃 dancing 
+💃 music + dancing 
 
 [x] found my own crib! ^.^ <br>
 [x] worked in a design agency <br>
