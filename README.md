@@ -1,6 +1,6 @@
 <h2> Hej, Hallo, Holá! </h3>
 
-my name is ``` Sofia Florencia Block.```   I'm a *_multidisciplinary_* **graphic designer** <br>
+my name is ```Sofia Florencia Block.```   I'm a *_multidisciplinary_* **graphic designer** <br>
 and very soon web developer! 💻  <br> 
 
 🏠 based in Berlin <br>
