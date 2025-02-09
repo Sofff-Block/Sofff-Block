@@ -11,8 +11,6 @@ and very soon web developer! 💻  <br>
 [x] worked in a design agency <br>
 [ ] worked in tech <br>
 
-<http://www.sofiablock.com> <br>
-
 <h3>Things I 💜 </h3>
 
 | | | | | | || || | |
