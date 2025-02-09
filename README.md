@@ -1,7 +1,7 @@
-<p align="left"><img width=10%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<h2> Hej, Hallo, Holá! </h3>
 
-<h3> Comitted to code </h3>
-my name is ``` Sofia Florencia Block```. I'm a *_multidisciplinary_* **graphic designer**!  <br>
+my name is ``` Sofia Florencia Block.```   I'm a *_multidisciplinary_* **graphic designer** <br>
+and very soon web developer! 💻  <br> 
 
 🏠 based in Berlin <br>
 💞 analog photography <br>
@@ -13,19 +13,21 @@ my name is ``` Sofia Florencia Block```. I'm a *_multidisciplinary_* **graphic d
 
 <http://www.sofiablock.com> <br>
 
-|T|h|i|n|g|s||I||💚|:|
+<h3>Things I 💜 </h3>
+
+| | | | | | || || | |
 | - | - | - | - | - | - | - | - | - | - | - |
-| | | |`P`| | | | | | |`W`|
+| | | | | | | | | | |`W`|
 | |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
-|`M`| | |`Y`| | | | |`C`| |`I`|
-|`I`| | |`C`|`O`|`D`|`E`| |`O`| |`M`|
-|`N`| | |`H`| | | | |`L`| |`S`|
-|`I`| |`S`|`O`|`C`|`I`|`O`|`L`|`O`|`G`|`Y`|
-|`M`| | |`L`| | | | |`R`| | |
-|`A`| | |`O`| | | | | | | |
-|`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
-|`I`| | |`Y`| | |`E`| | | | |
-|`S`| | | | | |`M`| | |[📸](https://www.instagram.com/fleurfromtheblock/)| |
+|`M`| | | | | | | | | |`I`|
+|`I`| | | | | | | | | |`M`|
+|`N`| | | | | | | | | |`S`|
+|`I`| | | | | | | | | | |
+|`M`| | | | | | | | | | |
+|`A`|`R`|`G`|`E`|`N`|`T`|`I`|`N`|`A`| | |
+|`L`| | | | | | | | | | |
+|`I`| | | | | | | | | | |
+|`S`| | | | | | | | |[📸](https://www.instagram.com/fleurfromtheblock/)| |
 |`M`| | | | | | | | | | |
 
 
