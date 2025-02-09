@@ -33,3 +33,5 @@ and very soon web developer! 💻  <br>
 
 ![foto](https://images.pexels.com/photos/2983214/pexels-photo-2983214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
+find out more 👉 <http://www.sofiablock.com>
+
