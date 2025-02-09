@@ -1,6 +1,6 @@
 <p align="left"><img width=10%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-my name is ``` Sofia ``` I'm a *_multidisciplinary_* **graphic designer**! Getting ready to code youu awayyy! <br>
+my name is ``` Sofia Florencia Block``` I'm a *_multidisciplinary_* **graphic designer**! Getting ready to code youu awayyy! <br>
 
 🏠 based in Berlin <br>
 💞 analog photography <br>
