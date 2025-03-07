@@ -14,7 +14,7 @@ Let's talk about tech! :D
 [x] worked in a design agency <br>
 [ ] worked in tech <br>
 
-<h3>Things I adore 🧎‍♀️‍➡️</h3>
+<h3>Things I adore ☄️</h3>
 
 | | | | | | || || | |
 | - | - | - | - | - | - | - | - | - | - | - |
