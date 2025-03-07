@@ -1,6 +1,6 @@
 <h2> Hej, Hallo, Holá! </h3>
 
-my name is ```Sofia Florencia Block.```  <br> Born in rainy Hamburg, Germany and raised in sunny Buenos Aires, Argentina.🇦🇷 <br>
+my name is ```Sofia Florencia Block.```  <br> Born in rainy Hamburg, Germany and raised in sunny Buenos Aires. 🇦🇷 <br>
 I'm a *_multidisciplinary_* **graphic designer** <br>
 and very soon  web developer?! 💻  <br> 
 
