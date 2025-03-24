@@ -10,9 +10,6 @@ Let's talk about tech! :D
 💞 analog photography <br>
 💃 music + dancing 
 
-[x] found my own crib! ^.^ <br>
-[x] worked in a design agency <br>
-[ ] worked in tech <br>
 
 <h3>Things I adore ☄️</h3>
 
