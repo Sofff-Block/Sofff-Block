@@ -1,16 +1,11 @@
-<h2> Hi, I'm  Sofia. 👋 </h2>
+<h2> Hi, nice to mee you! I'm  Sofia. 👋 </h2>
 
-nice to meet you! 
-🏠 based in Berlin. From 🇩🇪🇦🇷 <br>
-
-I'm a *_multidisciplinary_* **graphic designer** <br>
-and right know I'm participating in the Web Dev Bootcamp with neue Fische! 🐠
+I’m a *multidisciplinary* **graphic designer** based in Berlin 🇩🇪🇦🇷. <br>
+Right now, I’m diving into web development with the Web Dev Bootcamp by Neue Fische! 🐠
 
 Skills I've learned so far:
 
 ```HTML / CSS``` ```Javascript``` ```React```  ```Next.js``` ```MongoDB``` 
 
-Let's talk about tech! ;)
-
-
+I love combining design and code to bring innovative projects to life. Let's talk tech! ;)
 
