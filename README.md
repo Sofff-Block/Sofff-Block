@@ -3,7 +3,7 @@
 Nice to meet you! <br>
 I’m a *multidisciplinary* **graphic designer** based in Berlin.🇩🇪 <br>
 Originally from sunny Buenos Aires 🇦🇷, I’m passionate about pop culture, nature, and music.<br>
-Right now, I’m diving into web development with Bootcamp by Neue Fische! 🐠
+Currently swimming through code at the Neue Fische Web Dev Bootcamp — and loving it! 🐠
 
 Skills I've learned so far:
 
