@@ -5,7 +5,7 @@ Right now, I’m diving into web development with the Web Dev Bootcamp by Neue F
 
 Skills I've learned so far:
 
-```HTML / CSS``` ```Javascript``` ```React```  ```Next.js``` ```MongoDB``` 
+```HTML``` ```CSS``` ```Javascript``` ```React```  ```Next.js``` ```MongoDB``` 
 
 I love combining design and code to bring innovative projects to life. Let's talk tech! ;)
 
