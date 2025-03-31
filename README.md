@@ -1,33 +1,17 @@
-<h2> Hej, Hallo, Holá! </h3>
+<h2> Hi, I'm  ```Sofia.``` </h2>
 
-my name is ```Sofia Florencia Block.```  <br> Born in rainy Hamburg, Germany and raised in sunny Buenos Aires. 🇦🇷 <br>
+nice to meet you! 
+🏠 based in Berlin. <br>
+from 🇩🇪🇦🇷 <br>
+
 I'm a *_multidisciplinary_* **graphic designer** <br>
-and hopefully very soon web developer?! 💻  <br> 
+and right know I'm participating in the Web Dev Bootcamp with neue Fische!
 
-Let's talk about tech! :D
+Skills I've learned so far:
 
-🏠 based in Berlin <br>
-💞 analog photography <br>
-💃 music + dancing 
+***HTML / CSS*** Javascript React* Next.js *MongoDB * 
 
-
-<h3>Things I adore ☄️</h3>
-
-| | | | | | || || | |
-| - | - | - | - | - | - | - | - | - | - | - |
-| | | | | | | | | | |`W`|
-| |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
-|`M`| | | | | | | | | |`I`|
-|`I`| | | | | | | | | |`M`|
-|`N`| | | | | | | | | |`S`|
-|`I`| | | | | | | | | | |
-|`M`| | | | | | | | | | |
-|`A`|`R`|`G`|`E`|`N`|`T`|`I`|`N`|`A`| | |
-|`L`| | | | | | | | | | |
-|`I`| | | | | | | | | | |
-|`S`| | | | | | | | |[📸](https://www.instagram.com/fleurfromtheblock/)| |
-|`M`| | | | | | | | | | |
+Let's talk about tech! ;)
 
 
-find out more 👉 <http://www.com>
 
