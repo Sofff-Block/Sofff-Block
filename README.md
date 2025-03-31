@@ -8,5 +8,4 @@ Skills I've learned so far:
 
 ```HTML``` ```CSS``` ```Javascript``` ```React```  ```Next.js``` ```MongoDB``` 
 
-I love combining design and code to bring innovative projects to life. Let's talk tech! ;)
-
+I love combining design and code to bring innovative projects to life. Let's talk tech!😉
